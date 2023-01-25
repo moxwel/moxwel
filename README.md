@@ -1,9 +1,14 @@
 # 👋 Hi! I'm Max
-### Welcome to my profile.
+### _Welcome to my profile!_
 
----
+I'm from **Chile**. I like to **code**, **teach** and **learn**.
 
-I'm from Chile, and I like to code and learn.
+- 🔭 Check out [basics](https://github.com/moxwel/basics)!
+- 🏛️ I'm studying Software Engineering.
+- 🌱 I’m currently learning programming languages.
+- 💬 I speak native spanish and learning to pronounce english.
+- ⚡ Fun fact: I don't know how to use Vim (I use [micro](https://micro-editor.github.io/) -w-).
+- 😎 [VSCode](https://code.visualstudio.com/) and [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) enjoyer.
 
 <!--
 **moxwel/moxwel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
