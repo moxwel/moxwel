@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋 Hi! I'm Max
+### Welcome to my profile.
+
+---
+
+I'm from Chile, and I like to code and learn.
 
 <!--
 **moxwel/moxwel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
