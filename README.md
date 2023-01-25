@@ -1,13 +1,13 @@
 # 👋 Hi! I'm Max
 ### _Welcome to my profile!_
 
-I'm from **Chile**. I like to **code**, **teach** and **learn**.
+I'm from **Chile**. I like to _**code**_, _**teach**_ and _**learn**_.
 
 - 🔭 Check out [basics](https://github.com/moxwel/basics)!
-- 🏛️ I'm studying Software Engineering.
-- 🌱 I’m currently learning programming languages.
+- 🏛️ I'm studying *Software Engineering* since 2019.
+- 🌱 I’m currently learning *programming languages for teaching*.
 - 💬 I speak native spanish and learning to pronounce english.
-- ⚡ Fun fact: I don't know how to use Vim (I use [micro](https://micro-editor.github.io/) -w-).
+- ⚡ Fun fact: I've never learned how to use Vim (I use [micro](https://micro-editor.github.io/) -w-).
 - 😎 [VSCode](https://code.visualstudio.com/) and [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) enjoyer.
 
 <!--
