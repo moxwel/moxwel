@@ -1,6 +1,8 @@
 # 👋 Hi! I'm Max
 ### _Welcome to my profile!_
 
+[![repos][repos-badge]][repos-url] [![gists][gists-badge]][gists-url]
+
 I'm from **Chile**. I like to _**code**_, _**teach**_ and _**learn**_.
 
 - 🔭 Check out [basics](https://github.com/moxwel/basics)!
@@ -24,3 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[repos-badge]: https://img.shields.io/badge/dynamic/json?color=0090FF&label=Repos&url=https://api.github.com/users/moxwel/repos&query=$.length&style=for-the-badge&logo=github
+[repos-url]: https://github.com/moxwel?tab=repositories
+[gists-badge]: https://img.shields.io/badge/dynamic/json?color=000000&label=Gists&url=https://api.github.com/users/moxwel/gists&query=$.length&style=for-the-badge&logo=github
+[gists-url]: https://gist.github.com/moxwel
