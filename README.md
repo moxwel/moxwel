@@ -58,7 +58,7 @@ These are some of the software that I always use. Check them out!
 [paint-url]: https://www.getpaint.net/
 [ql-url]: https://github.com/QL-Win/QuickLook
 [ghdesk-url]: https://desktop.github.com/
-[snapdrop-url]: https://snapdrop.net/
+[snapdrop-url]: https://github.com/RobinLinus/snapdrop
 [wsl-url]: https://learn.microsoft.com/en-us/windows/wsl/about
 [gwsl-url]: https://opticos.github.io/gwsl/
 [zsh-url]: https://ohmyz.sh/
