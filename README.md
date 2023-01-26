@@ -25,7 +25,7 @@ I am from <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_
 - 🌱 I’m currently learning *programming languages for teaching*.
 - 💬 I speak native spanish and learning to pronounce english.
 - 💻 [VSCode](https://code.visualstudio.com/) and [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) enjoyer.
-- ⚡ **Fun fact:** I've never learned how to use Vim (I use [micro](https://micro-editor.github.io/) instead).
+- ⚡ **Fun fact:** I've never learned how to use Vim (I use [micro](https://micro-editor.github.io/) instead ¯\\\_(ツ)\_/¯ ).
 
 <details>
 <summary><h3>🛠 My essentials</h3></summary>
