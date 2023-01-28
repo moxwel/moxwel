@@ -28,7 +28,7 @@ I am from <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_
 - ⚡ **Fun fact:** I've never learned how to use Vim (I use [micro](https://micro-editor.github.io/) instead ¯\\\_(ツ)\_/¯ ).
 
 <details>
-<summary><h3>🛠 My essentials</h3></summary>
+<summary><strong>🛠 My essentials</strong></summary>
   
 These are some of the software that I always use. Check them out!
 
