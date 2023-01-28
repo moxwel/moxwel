@@ -30,7 +30,7 @@ I am from <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_
 <details>
 <summary><strong>🛠 My essentials</strong></summary>
   
-These are some of the software that I always use. Check them out!
+These are some of the software I always use. Check them out!
 
 [![vscode][vscode-badge]][vscode-url]
 [![npp][npp-badge]][npp-url]
