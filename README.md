@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![repos][repos-badge]][repos-url] [![gists][gists-badge]][gists-url] [![favs][favs-badge]][favs-url] 
 
-I am from <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height=13px> **Chile**. I like to _**code**_, _**teach**_ and _**learn**_.
+I am from <a href="https://en.wikipedia.org/wiki/Chile"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height=13px> **Chile**</a>. I like to _**code**_, _**teach**_ and _**learn**_.
 
 - 📓 Check out [basics](https://github.com/moxwel/basics)!
 - 🏛️ I'm studying *Software Engineering* since 2019.
