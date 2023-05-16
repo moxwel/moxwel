@@ -27,7 +27,7 @@ I am from <a href="https://en.wikipedia.org/wiki/Chile" target="_blank"><img src
 - 💻 [VSCode](https://code.visualstudio.com/) and [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) enjoyer.
 - ⚡ **Fun fact:** I've never learned how to use Vim (I use [micro](https://micro-editor.github.io/) instead ¯\\\_(ツ)\_/¯ ).
 
-<details>
+<details open>
 <summary><strong>🛠 My essentials</strong></summary>
   
 These are some of the software I always use. Check them out!
