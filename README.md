@@ -22,7 +22,7 @@ I am from <a href="https://en.wikipedia.org/wiki/Chile" target="_blank"><img src
 
 - 📓 Check out [basics](https://github.com/moxwel/basics)!
 - 🏛️ I studied: *Software Engineering*.
-- 🌱 I’m currently: *FINISHED UNI AT LAST, resting at last (and then search for a job)*.
+- 🌱 I’m currently: *FINISHED UNI AT LAST, resting now (and then search for a job)*.
 - 💬 I speak spanish and learning to pronounce english.
 - 💻 [VSCode](https://code.visualstudio.com/) and [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) enjoyer.
 - ⚡ **Fun fact:** I've never learned how to use Vim (I use [micro](https://micro-editor.github.io/) instead ¯\\\_(ツ)\_/¯ ).
