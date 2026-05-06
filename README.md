@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 I am from <a href="https://en.wikipedia.org/wiki/Chile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height=13px> **Chile**</a>. I like to _**code**_, _**teach**_ and _**learn**_.
 
 - 📓 Check out [basics](https://github.com/moxwel/basics)!
-- 🏛️ I studied: *Software Engineering*.
+- 🏛️ I studied: *Software Engineering* at Universidad Técnica Federico Santa Maria.
 - 🌱 I’m currently: *FINISHED UNI AT LAST, resting now (and then search for a job)*.
-- 💬 I speak spanish and learning to pronounce english.
-- 💻 [VSCode](https://code.visualstudio.com/) and [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) enjoyer.
-- ⚡ **Fun fact:** I've never learned how to use Vim (I use [micro](https://micro-editor.github.io/) instead ¯\\\_(ツ)\_/¯ ).
+- 💬 I understand spanish and english. I'm learning to pronounce english.
+- 💻 [VSCode](https://code.visualstudio.com/) and [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) enjoyer (and recently, KDE).
+- ⚡ **Fun fact:** I've never learned how to use Vim (I like to use [micro](https://micro-editor.github.io/) instead ¯\\\_(ツ)\_/¯ ).
 
 <details open>
 <summary><strong>🛠 My essentials</strong></summary>
