@@ -13,25 +13,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi! I'm Max
-### _Welcome to my profile!_
+<div align="center">
+  
+<h1>👋 Hi! I'm Max</h1>
 
-[![repos][repos-badge]][repos-url] [![gists][gists-badge]][gists-url] [![favs][favs-badge]][favs-url] 
+<h4>Welcome to my profile!</h4>
 
-I am from <a href="https://en.wikipedia.org/wiki/Chile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height=13px> **Chile**</a>. I like to _**code**_, _**teach**_ and _**learn**_.
+[![repos][repos-badge]][repos-url] [![gists][gists-badge]][gists-url] [![favs][favs-badge]][favs-url]
 
-- 📓 Check out [basics](https://github.com/moxwel/basics)!
-- 🏛️ I studied: *Software Engineering* at Universidad Técnica Federico Santa Maria.
-- 🌱 I’m currently: *FINISHED UNI AT LAST, resting now (and then search for a job)*.
+</div>
+
+I am from <a href="https://en.wikipedia.org/wiki/Chile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height=13px> **Chile**</a>. I like to _**code**_, _**teach**_ and _**learn**_. I love to build things, and discover new and useful software and tools (better yet if they are Open Source!). And if it doesn't exist... maybe building my own.
+
+- 📓 Check out [basics](https://github.com/moxwel/basics) and [my backpack from uni](https://github.com/moxwel/backpack).
+- 🏛️ I studied: *Software Engineering* at *Universidad Técnica Federico Santa Maria*.
+- 🌱 I’m currently: **FINISHED UNI AT LAST**, resting... for now...
 - 💬 I understand spanish and english. I'm learning to pronounce english.
-- 💻 [VSCode](https://code.visualstudio.com/) and [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) enjoyer (and recently, KDE).
+- 💻 [VSCode](https://code.visualstudio.com/), [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) and [KDE](https://kde.org/) enjoyer ([❤️](https://community.kde.org/Konqi)).
 - ⚡ **Fun fact:** I've never learned how to use Vim (I like to use [micro](https://micro-editor.github.io/) instead ¯\\\_(ツ)\_/¯ ).
+- 🐉 **Another** fun fact: I like dragons.
+
+#### What languages I know?
+
+Well... a little bit of this... a little bit of that... I have done many things in uni, check [my backpack](https://github.com/moxwel/backpack).
 
 <details open>
-<summary><strong>🛠 My essentials</strong></summary>
-  
+<summary><h4>🛠 My essentials</h4></summary>
+
 These are some of the software I always use. Check them out!
 
+<div align="center">
+  
 [![vscode][vscode-badge]][vscode-url]
 [![npp][npp-badge]][npp-url]
 [![terminal][terminal-badge]][terminal-url]
@@ -45,6 +57,13 @@ These are some of the software I always use. Check them out!
 [![micro][micro-badge]][micro-url]
 [![zsh][zsh-badge]][zsh-url]
 [![bat][bat-badge]][bat-url]
+
+<sub>Badges made with [Shields.IO](https://shields.io/)</sub>
+
+</div>
+
+⭐ Also, check my [stars](https://github.com/moxwel?tab=stars) for more.
+
 </details>
 
 <!-- Links -->
