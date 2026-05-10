@@ -17,30 +17,33 @@ Here are some ideas to get you started:
   
 <h1>👋 Hi! I'm Max</h1>
 
-<h4>Welcome to my profile!</h4>
+<h3>Welcome to my profile!</h3>
 
 [![repos][repos-badge]][repos-url] [![gists][gists-badge]][gists-url] [![favs][favs-badge]][favs-url]
 
 </div>
 
-I am from <a href="https://en.wikipedia.org/wiki/Chile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height=13px> **Chile**</a>. I like to _**code**_, _**teach**_ and _**learn**_. I love to build things, and discover new and useful software and tools (better yet if they are Open Source!). And if it doesn't exist... maybe building my own.
+I'm from <a href="https://en.wikipedia.org/wiki/Chile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" height=13px> **Chile**</a>. I like to _**code**_, _**teach**_ and _**learn**_. I love to build things, and discover new and useful software and tools (better yet if they are Open Source!). And if it doesn't exist... maybe building my own.
 
-- 📓 Check out [basics](https://github.com/moxwel/basics) and [my backpack from uni](https://github.com/moxwel/backpack).
+I'm self-taught, organized, detail-oriented and methodical. Also intuitive and creative. I'm motivated to learn new things and solve problems. Interested in software development, software architecture, databases, UX, and project planning.
+
+> I always avoid leaving things unfinished. When I start something, I finish it.
+
 - 🏛️ I studied: *Software Engineering* at *Universidad Técnica Federico Santa Maria*.
 - 🌱 I’m currently: **FINISHED UNI AT LAST**, resting... for now...
-- 💬 I understand spanish and english. I'm learning to pronounce english.
-- 💻 [VSCode](https://code.visualstudio.com/), [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) and [KDE](https://kde.org/) enjoyer ([❤️](https://community.kde.org/Konqi)).
+- 💬 I understand spanish and english.
+- 💻 [VSCode](https://code.visualstudio.com/), [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) and [KDE](https://kde.org/)<sub>[❤️](https://community.kde.org/Konqi)</sub> enjoyer.
 - ⚡ **Fun fact:** I've never learned how to use Vim (I like to use [micro](https://micro-editor.github.io/) instead ¯\\\_(ツ)\_/¯ ).
 - 🐉 **Another** fun fact: I like dragons.
 
-#### What languages I know?
+## What languages and tools I know?
 
-Well... a little bit of this... a little bit of that... I have done many things in uni, check [my backpack](https://github.com/moxwel/backpack).
+Well... <sub>a little bit of this...</sub> <sup>a little bit of that...</sup> I have done many things at uni. Check [my backpack](https://github.com/moxwel/backpack).
 
 <details open>
-<summary><h4>🛠 My essentials</h4></summary>
+<summary><h2>🛠 My essentials</h2></summary>
 
-These are some of the software I always use. Check them out!
+These are some of the software I always use. Check them out! Also, check my [⭐ stars](https://github.com/moxwel?tab=stars) for more software.
 
 <div align="center">
   
@@ -58,11 +61,9 @@ These are some of the software I always use. Check them out!
 [![zsh][zsh-badge]][zsh-url]
 [![bat][bat-badge]][bat-url]
 
-<sub>Badges made with [Shields.IO](https://shields.io/)</sub>
+<sup>Made with [Shields.IO](https://shields.io/)</sup>
 
 </div>
-
-⭐ Also, check my [stars](https://github.com/moxwel?tab=stars) for more.
 
 </details>
 
