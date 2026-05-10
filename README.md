@@ -30,7 +30,6 @@ I'm self-taught, organized, detail-oriented and methodical. Also intuitive and c
 > I always avoid leaving things unfinished. When I start something, I finish it.
 
 - 🏛️ I studied: *Software Engineering* at *Universidad Técnica Federico Santa Maria*.
-- 🌱 I’m currently: **FINISHED UNI AT LAST**, resting... for now...
 - 💬 I understand spanish and english.
 - 💻 [VSCode](https://code.visualstudio.com/), [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) and [KDE](https://kde.org/)<sub>[❤️](https://community.kde.org/Konqi)</sub> enjoyer.
 - ⚡ **Fun fact:** I've never learned how to use Vim (I like to use [micro](https://micro-editor.github.io/) instead ¯\\\_(ツ)\_/¯ ).
@@ -38,7 +37,7 @@ I'm self-taught, organized, detail-oriented and methodical. Also intuitive and c
 
 ## What languages and tools I know?
 
-Well... <sub>a little bit of this...</sub> <sup>a little bit of that...</sup> I have done many things at uni. Check [my backpack](https://github.com/moxwel/backpack).
+Well... <sub>a little bit of this...</sub> <sup>a little bit of that...</sup> I have done many things at uni. **Check [my backpack](https://github.com/moxwel/backpack).**
 
 <details open>
 <summary><h2>🛠 My essentials</h2></summary>
